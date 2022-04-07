@@ -1,0 +1,105 @@
+label{
+    color: blue;
+    font-weight: 600;
+}
+.loginForm{
+    background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+    border: 1px solid blue;
+    margin: 200px 600px;
+    padding: 10px 0;
+}
+#form2Example2{
+    margin-left: 32px;
+}
+.signInBtn{
+    color: blue;
+    background-color: transparent;
+    border-color: blue;
+    margin-left: 8px;
+}
+.signInBtn:hover{
+    color: white;
+    background-color:darkblue;
+}
+.btn{
+    color: blue;
+    background-color: transparent;
+    border-color: blue;
+    margin-left: 215px;
+    margin-top: 5px;
+}
+.btn:hover{
+    background-color:darkblue;
+    color: white;
+}
+.query{
+    color: blue;
+    font-weight: 600;
+}
+#form3Example1c{
+    margin-left: 75px;
+}
+#form3Example3c{
+    margin-left: 74px;
+    margin-top: 5px;
+
+}
+#form3Example4c{
+    margin: 5px 0 5px 87px;
+
+}
+#form3Example4cd{
+    margin-bottom: 5px;
+}
+.btn-lg{
+    color: blue;
+    background-color: transparent;
+    border-color: blue;
+    margin: 5px 0 5px 260px;
+}
+
+.signInHead{
+    text-align: center;
+    color: blue;
+    font-weight: 600;
+    font-size: large;
+    border: 1px solid blue;
+    margin: 5px 120px 15px 120px;
+}
+.registerBtn{
+    color: blue;
+    background-color: transparent;
+    border-color: blue;
+}
+.registerBtn:hover{
+    color: white;
+    background-color:darkblue;
+}
+
+.heading{
+    text-align: center;
+    color: darkblue;
+}
+.homebtn{
+    color: blue;
+    background-color: transparent;
+    border-color: darkblue;
+    margin-left: 57px;
+    /* margin: 8px 700px; */
+    /* display: block; */
+}
+.homebtn:hover{
+    background-color: darkblue;
+    color: white;
+}
+.container{
+    background-color: aliceblue;
+    margin: 200px 600px;
+    padding: 20px 20px;
+    
+}
+body{
+    background-color:blueviolet
+}
